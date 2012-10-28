@@ -56,7 +56,7 @@ public class Template {
     }
   }
 
-  public String getContent() {
+  String getContent() {
     return content;
   }
 }
